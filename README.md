@@ -8,7 +8,7 @@ I’m Moussa, an ambitious young programmer passionate about learning and expand
 
 - 💻 **Programming Languages**:
   - **C++:** Skilled in writing clean and efficient code with C++, with a focus on solving problems and creating efficient algorithms.  
-  - **C#:** I use C# for building desktop apps, and i learn how to build other various apps.
+  - **C# :** I use C# for building desktop apps, and i learn how to build other various apps.
 
 - 🗃️ **Databases**:
   - Knowledgeable in using and designing databases with **SQL**, including query optimization and creating structured database systems.

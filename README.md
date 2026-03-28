@@ -1,4 +1,3 @@
-"}
 # 👋 Moussa Kharbouch
 
 Backend-focused developer specializing in building structured, maintainable applications using C# and .NET.
